@@ -1,6 +1,6 @@
 public
 class
-Main
+HelloWorld
 {
 public
 static
